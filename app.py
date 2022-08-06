@@ -7,7 +7,9 @@ op = model.predict([ip])
 if st.button('Detect'):
   st.title(op[0])
 
-  
+ 
+
+
   
   
   
